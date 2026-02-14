@@ -28,5 +28,5 @@ The ARIMA model successfully predicted future sales trends based on historical d
 - Use real-world retail dataset
 - Build web dashboard using Streamlit
 
-## Author
+## 👤 Author
 Kiran Kawale

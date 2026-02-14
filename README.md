@@ -1,5 +1,18 @@
 # Sales Forecasting Using Time Series Analysis
 
+
+## Goal:
+Predict future sales based on historical data.
+## Guidelines:
+
+Use time-series data (e.g., retail or e-commerce).
+
+Apply ARIMA, Prophet, or LSTM models.
+
+Include seasonal, promotional, and trend components.
+
+Visualize forecast vs. actual sales.
+
 ## Project Objective
 To predict future sales using historical time-series sales data.
 

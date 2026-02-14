@@ -11,7 +11,7 @@ Sample retail sales dataset with Date and Sales values.
 - Pandas
 - Matplotlib
 - Statsmodels
-- Google Colab / Kaggle
+- Kaggle
 
 ## Methodology
 1. Data loading and preprocessing
